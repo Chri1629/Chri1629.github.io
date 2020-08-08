@@ -1,0 +1,168 @@
+a {
+  color: #3030306b;
+}
+
+.navbar-fixed nav {
+  background-color: #3030306b;
+}
+
+
+.side-nav li:hover{
+  background-color: #3030306b;  
+}
+.btn ,.btn-large{
+  background-color: #3030306b;
+}
+.btn:hover, .btn-large:hover {
+  background-color: #3030306b;
+}
+.home-title span{
+  color: #e600006b;
+}
+.about-inner-right>h3{
+  color: #3030306b;
+}
+.personal-information>h3{
+  color: #3030306b;
+}
+.title{
+  color: #3030306b;
+}
+
+.card-subtitle {
+  color: #3030306b;
+}
+.portfolio-top{
+  background-color: #3030306b;
+}
+.filter {
+  color: #3030306b;
+}
+.filter:focus{
+  background-color: #3030306b;
+}
+#portfolio-list .mix:hover > a::before {
+  background-color: #3030306b;
+}
+.counter{
+  color: #3030306b;
+}
+
+.pro-bar-container.color-wisteria {
+  border-color: #3030306b;
+}
+
+.pro-bar.color-amethyst {
+  background-color: #3030306b;
+}
+.call-to-about i{
+  color: #3030306b;
+}
+
+.blog-post .card-action a{
+  color: #3030306b;
+}
+
+.post-comment:hover{
+  color: #3030306b !important;
+}
+
+.readmore-btn:hover{
+  background-color: #3030306b;
+}
+#experience{
+  background-color: #3030306b;
+}
+
+.card-title i {
+  color: #3030306b;
+}
+.customNavigation i{
+  color: #3030306b;
+}
+
+.footer-top{
+  background-color:#3030306b; 
+}
+input[type="text"]:focus:not([readonly]) + label,
+input[type="password"]:focus:not([readonly]) + label,
+input[type="email"]:focus:not([readonly]) + label,
+input[type="url"]:focus:not([readonly]) + label,
+input[type="time"]:focus:not([readonly]) + label,
+input[type="date"]:focus:not([readonly]) + label,
+input[type="datetime-local"]:focus:not([readonly]) + label,
+input[type="tel"]:focus:not([readonly]) + label,
+input[type="number"]:focus:not([readonly]) + label,
+input[type="search"]:focus:not([readonly]) + label,
+textarea.materialize-textarea:focus:not([readonly]) + label {
+  color: #3030306b;
+}
+input[type="text"]:focus:not([readonly]),
+input[type="password"]:focus:not([readonly]),
+input[type="email"]:focus:not([readonly]),
+input[type="url"]:focus:not([readonly]),
+input[type="time"]:focus:not([readonly]),
+input[type="date"]:focus:not([readonly]),
+input[type="datetime-local"]:focus:not([readonly]),
+input[type="tel"]:focus:not([readonly]),
+input[type="number"]:focus:not([readonly]),
+input[type="search"]:focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #3030306b;
+  box-shadow: 0 1px 0 0 #3030306b;
+}
+.submit-btn{
+  color: #3030306b;  
+}
+.submit-btn:hover,
+.submit-btn:focus{
+  background-color: #3030306b;
+}
+.overlay-header{
+  background-color: #3030306b;
+}
+.blog-content blockquote {
+  border-left: 5px solid #3030306b;
+}
+.share-area h4 i,
+.tag-area h4 i {
+  color: #3030306b;
+}
+.share-area a:hover,
+.share-area a:focus{
+  color: #3030306b;
+}
+.author-comments {
+  background-color: #3030306b !important;
+}
+.reply-btn:hover{
+  background-color: #3030306b; 
+}
+.pagination li.active{
+  background-color: #3030306b;
+}
+.card .card-action a {
+  color: #3030306b;  
+}
+.tagcloud a:hover,
+.tagcloud a:focus{
+  color: #fff;
+  background-color: #3030306b;
+  border-color: #3030306b;
+}
+.prev-post:hover,
+.prev-post:focus,
+.next-post:hover,
+.next-post:focus{
+  background-color: #3030306b;
+}
+.submit-btn{
+  color: #3030306b;  
+}
+.side-nav li:hover,
+.side-nav li.active {
+  background-color: #3030306b; 
+}
+.progress .indeterminate {
+  background-color: #3030306b;
+}
